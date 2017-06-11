@@ -33,7 +33,7 @@ A Telegram Bot based on the official [Telegram Bot API](https://core.telegram.or
     - [Send Photo](#send-photo)
     - [Send Chat Action](#send-chat-action)
     - [getUserProfilePhoto](#getuserprofilephoto)
-    - [getFile and dowloadFile](#getfile-and-dowloadfile)
+    - [getFile and downloadFile](#getfile-and-dowloadfile)
     - [Send message to all active chats](#send-message-to-all-active-chats)
 - [Utils](#utils)
     - [MySQL storage (Recommended)](#mysql-storage-recommended)
